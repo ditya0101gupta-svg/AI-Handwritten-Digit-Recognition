@@ -2,6 +2,12 @@
 
 An end-to-end Deep Learning project that recognizes handwritten digits (0–9) using a Convolutional Neural Network (CNN), with an interactive web application developed using Streamlit.
 
+## Live Application
+
+Try the deployed AI-Based Handwritten Digit Recognition System:
+
+[Launch the Streamlit App](https://ai-handwritten-digit-recognition-knrqvge2jjxomsg6fi6kkb.streamlit.app)
+
 ## Project Overview
 
 This project demonstrates how deep learning and computer vision can be used to recognize handwritten digits from uploaded images.
