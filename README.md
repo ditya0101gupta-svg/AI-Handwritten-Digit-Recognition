@@ -111,3 +111,19 @@ These results are examples from manually uploaded images, not a measure of overa
 ## Project Purpose
 
 This project demonstrates practical skills in Python, deep learning, computer vision, model evaluation, image preprocessing, and interactive machine-learning application development.
+
+
+## Application Screenshots
+
+### Handwritten Digit 5 — Application Interface
+![Digit 5 Interface](app_interface_5.png)
+
+### Handwritten Digit 5 — Prediction Results
+![Digit 5 Prediction](prediction_results_5.png)
+
+### Handwritten Digit 7 — Application Interface
+![Digit 7 Interface](app_interface_7.png)
+
+### Handwritten Digit 7 — Prediction Results
+![Digit 7 Prediction](prediction_results_7.png)
+
